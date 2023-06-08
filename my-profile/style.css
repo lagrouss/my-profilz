@@ -1,0 +1,117 @@
+body {
+
+color: white;
+
+font-size: 16px;
+
+font-family: Nunito;
+
+text-decoration: none;
+
+text-align: center;
+
+line-height: 1.6;
+
+letter-spacing: 1px;
+
+background-color: #95938f;
+
+}
+
+h1, h2, h3, h4 {
+
+font-size: 25px;
+
+font-weight: extra-bold;
+
+}
+
+h1 {
+
+font-size: 60px;
+
+background-image: url("images/fond.gif");
+
+background-size: 1710px 500px;
+
+border-radius: 30%;
+
+}
+
+a {
+
+text-decoration: none;
+
+color: rgb(247, 209, 209);
+
+font-weight: 100;
+
+transition: color 0.3s ease;
+
+}
+
+a:hover, .Media:hover {
+
+color: #3ca9fc;
+
+}
+
+.Media {
+
+font-size: 18px;
+
+}
+
+ul {
+
+list-style: none;
+
+}
+
+div {
+
+border-top: 15px solid rgb(77, 99, 241);
+
+border-bottom: 10px solid rgb(77, 99, 241);
+
+border-left: 7px solid rgb(77, 99, 241);
+
+border-right: 7px solid rgb(77, 99, 241);
+
+margin: 30px;
+
+padding: 20px;
+
+border-radius: 2%;
+
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.462);
+
+}
+
+#Test {
+
+border-right: 0px;
+
+border-left: 0px;
+
+border-top: 0px;
+
+text-align: center;
+
+}
+
+#maison {
+
+font-size: 50px;
+
+}
+
+#main {
+
+border-radius: 50%;
+
+box-shadow: 5px 5px 5px rgb(96, 121, 246);
+
+box-lines: 5px rgb(87, 146, 234);
+
+}
